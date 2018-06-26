@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>heart_svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-34.000000, -1062.000000)">
+            <g id="Group-2" transform="translate(34.000000, 1062.000000)">
+                <g id="heart_svg" opacity="0">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="99" height="99"></rect>
+                </g>
+                <path d="M48.7305842,93 C48.7305842,93 5.56369418,58.2844361 5.01662193,37.0732751 C4.46954969,15.8631043 17.5464697,9 26.5457583,9 C46.5323303,9 52.811205,35.2017894 52.811205,35.2017894 C52.811205,35.2017894 61.3630703,10.4645118 76.7189597,12.4320472 C93.7579184,14.6154472 99.2685004,32.0826467 91.6334047,51.0004951 C84.2862942,69.207377 48.7305842,93 48.7305842,93" id="Fill-1" fill="#DC2826"></path>
+            </g>
+        </g>
+    </g>
+</svg>

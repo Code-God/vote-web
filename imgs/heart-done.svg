@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>heart-done</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone-item" transform="translate(-554.000000, -76.000000)">
+            <g id="Group" transform="translate(530.000000, 52.000000)">
+                <rect id="Rectangle-4" stroke="#FC8685" stroke-width="2" x="1" y="1" width="78" height="78" rx="39"></rect>
+                <g id="Group-7" transform="translate(24.000000, 24.000000)">
+                    <rect id="heart-done" fill="#D8D8D8" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M22.9718161,2.08448951 C20.2216092,2.08448951 17.6643218,4.93133566 15.9815172,7.06814685 C14.2994023,4.93094406 11.7426207,2.08448951 8.99103448,2.08448951 C4.03324138,2.08448951 0,6.22697203 0,11.3186643 C0,14.3563217 1.44468966,16.4874056 2.6057931,18.1997133 C5.9805977,23.173042 14.4665747,29.3621189 14.825977,29.6229301 C15.172046,29.8741958 15.5772414,30 15.9809655,30 C16.3857931,30 16.790069,29.8741958 17.1357701,29.6229301 C17.4954943,29.3621189 25.9822069,23.173042 29.355954,18.1997133 C30.5177931,16.4874056 31.9628046,14.3563217 31.9628046,11.3186643 C31.9628046,6.22697203 27.9296092,2.08448951 22.9718161,2.08448951 Z" id="心" fill="#FC8685"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="44" height="44"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8" transform="translate(-684.000000, -238.000000)">
+            <g id="Group-3" transform="translate(0.000000, 216.000000)">
+                <g id="Group" transform="translate(684.000000, 22.000000)">
+                    <g id="search" opacity="0">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="43" height="43"></rect>
+                    </g>
+                    <path d="M35.4858907,32.6574635 L43.4142136,40.5857864 C44.1952621,41.366835 44.1952621,42.633165 43.4142136,43.4142136 C42.633165,44.1952621 41.366835,44.1952621 40.5857864,43.4142136 L32.6574635,35.4858907 C29.2097224,38.3072694 24.8025404,40 20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,24.8025404 38.3072694,29.2097224 35.4858907,32.6574635 Z M20,36 C28.836556,36 36,28.836556 36,20 C36,11.163444 28.836556,4 20,4 C11.163444,4 4,11.163444 4,20 C4,28.836556 11.163444,36 20,36 Z" id="Combined-Shape" fill="#676F75"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

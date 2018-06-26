@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <meta name="viewport" content="width=750,minimum-scale=0.42,user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/plugin/cropper.min.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <title>国际临床试验日</title>
+    <!--百度统计-->
+    <script type="text/javascript">
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?96e9d661f24cc41ff01ae9fb6ba6d9e0";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+<div class="main">
+    <img class="top-img big" src="imgs/bl-top-big.png" alt="top-simg"/>
+    <input class="file" id="inputImage" type="file" accept="image/*"/>
+
+    <!--首页-->
+    <div class="page page1">
+        <img class="top-img top-img-small" src="imgs/bl-top-long.png" alt="top-img"/>
+        <img class="top-title-img mod-transition" src="imgs/title.png" alt="top-img"/>
+        <a class="share-index" href="javascript:void (0);"></a>
+        <div class="center-contend mod-transition">
+            <p class="center-text">
+                2018年5月20日是即将到来的第 14 个国际<br>
+                临床试验日，在这样的一个日子里，让我们<br>
+                为自己打call、为行业发声，上传您的照片，<br>
+                让大家了解这个行业里每个鲜活的脸，我们<br>
+                将选出支持票数前十的照片上传者，送出一<br>
+                份精美的礼品
+            </p>
+            <div class="active-rule-kj">
+                <a class="active-rule" href="javascript:void (0);">查看活动规则 > </a>
+            </div>
+            <div class="center-button go-active">我要参加</div>
+            <div class="center-button go-active-end">活动已结束</div>
+        </div>
+
+        <div class="bottom-title-img">
+            <img src="imgs/heart_svg.svg" alt="heart_svg">
+        </div>
+        <img class="good-tip" src="imgs/good-tip.png" alt="good-tip">
+
+        <img class="bottom-img" src="imgs/bl-bottom-long.png" alt="top-img"/>
+    </div>
+
+    <div class="active-rule-box">
+        <div class="active-rule-mask"></div>
+        <div class="box-content">
+            <a class="active-rule-close" href="javascript:void (0);"></a>
+            <p class="box-content-text">
+                上传您的照片并转发朋友圈集赞<br>
+                我们会与5月20日24:00停用点赞功能<br>
+                并统计获赞数最高的10位参与者，并<br>
+                送出奖品（请确认您留下的手机号码<br>
+                正确无误作为领奖凭据）<br>
+            </p>
+            <p class="I-know">我知道啦</p>
+        </div>
+    </div>
+    <!--首页end-->
+
+    <!--用户列表-->
+    <div class="page page5">
+        <h1 class="page-title">
+            <a class="up-back" href="javascript:void (0);"></a>
+            参与用户
+            <a class="share-index" href="javascript:void (0);"></a>
+        </h1>
+        <div class="search-mark"></div>
+        <div class="mod-search mod-transition">
+            <input class="mod-search-input" placeholder="搜索姓名或编号" type="search" />
+            <span class="mod-search-button">
+                <img src="imgs/search.svg" alt="search-img">
+            </span>
+        </div>
+
+        <div id="wrapper" class="user-list-kj">
+            <div id="scroller" class="user-list">
+                <div id = "scroller-pullDown" class="mod-transition">
+                    <span id = "down-icon" class = "icon-double-angle-down pull-down-icon"></span>
+                    <span id = "pullDown-msg" class = "pull-down-msg">下拉刷新</span>
+                </div>
+                <div class="user-list-content"></div>
+                <div id = "scroller-pullUp">
+                    <span id = "up-icon" class = "icon-double-angle-up pull-up-icon"></span>
+                    <span id = "pullUp-msg" class = "pull-up-msg">上拉加载</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--用户列表end-->
+
+
+    <!--上传图片-->
+    <div class="page page2">
+        <h1 class="page-title">参与活动</h1>
+        <img class="top-bg-img" src="imgs/bt.png" alt="top-img"/>
+
+        <div class="center-contend">
+            <div class="up-img up-img-even-button"></div>
+            <p class="up-img-text">
+                参加此活动即视为您同意主办方在后续的
+                活动过程中免费使用您提交的图片素材
+            </p>
+        </div>
+
+        <img class="bottom-bg-img" src="imgs/bb.png" alt="top-img"/>
+        <img class="bottom-img" src="imgs/bl-bottom.png" alt="top-img"/>
+    </div>
+    <!--上传图片end-->
+
+    <!--选择相框-->
+    <div class="page page3 show">
+        <div class="lording-mark"></div>
+        <h1 class="page-title">选择相框</h1>
+
+        <ul class="picture-frame-list clearafter">
+            <li class="picture-frame-item cur" data-id="1">款式1</li>
+            <li class="picture-frame-item" data-id="2">款式2</li>
+            <li class="picture-frame-item" data-id="3">款式3</li>
+        </ul>
+        <div class="template form-img">
+            <img class="template-phone" src=""/>
+            <img class="template-picture-frame" src="imgs/b01.png" alt="相框"/>
+        </div>
+        <div class="up-buttons">
+            <span class="confirm-img">裁切</span>
+            <span class="up-img-button up-img-even-button">重新上传</span>
+            <span class="submit-img">提交图片</span>
+        </div>
+        <img class="bottom-img" src="imgs/bl-bottom.png" alt="top-img"/>
+    </div>
+    <!--选择相框end-->
+
+    <!--完成信息-->
+    <div class="page page4">
+        <h1 class="page-title">完成信息</h1>
+        <p class="center-text">
+            请留下您的联系方式<br>
+            以便于中奖后及时联系到您
+        </p>
+        <div class="mod-form">
+            <label class="mod-label">姓名或昵称</label>
+            <input id="name" class="mod-input" type="text" name="name"/>
+            <label class="mod-label">手机号码</label>
+            <input id="contactInformation" class="mod-input" type="text" name="contactInformation"/>
+            <div class="submit-button">参与活动</div>
+        </div>
+    </div>
+    <!--完成信息end-->
+
+    <!--分享box-->
+    <div class="share-box">
+        <div class="box-mask"></div>
+
+        <img class="box-arrow-share" src="imgs/arrow_share.png">
+        <div class="box-content">
+            <a class="box-close" href="javascript:void (0);"></a>
+            <p class="box-content-text">
+                520为爱而试<br>
+                第 14 个国际临床试验日<br>
+                让我们为行业里每个鲜活的脸点赞
+            </p>
+            <p class="box-content-href"></p>
+
+            <input id="copyInput" type="text" value="520为爱而试第 14 个国际临床试验日让我们为行业里每个鲜活的脸点赞 ："/>
+            <a class="box-content-copy" href="javascript:void (0);" data-clipboard-target="#copyInput">点击按钮复制链接</a>
+            <p class="box-share-tips">点击右上角分享</p>
+        </div>
+    </div>
+    <!--分享box end-->
+</div>
+<script type="text/javascript" src="js/plugin/jquery-2.1.4.min.js"></script>
+
+<!--滚动-->
+<script type="text/javascript" src="js/plugin/iscroll-probe.js"></script>
+<!--图片剪切-->
+<script type="text/javascript" src="js/plugin/cropper.min.js"></script>
+<!--复制文本-->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+<!--分享-->
+<script src="https://cdn.bootcss.com/axios/0.18.0/axios.min.js"></script>
+<script src="http://qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js?v=1.2"></script>
+
+<script type="text/javascript" src="js/basis.js?v=1.2"></script>
+<script type="text/javascript" src="js/myshare.js?v=1.2"></script>
+<script type="text/javascript" src="js/index.js?v=1.2"></script>
+<script type="text/javascript" src="js/process.js?v=1.2"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9-2" transform="translate(-604.000000, -437.000000)">
+            <g id="Group-5" transform="translate(604.000000, 437.000000)">
+                <rect id="close" stroke="#979797" opacity="0" x="0.5" y="0.5" width="59" height="59"></rect>
+                <path d="M33,33 L33,39 C33,40.6568542 31.6568542,42 30,42 C28.3431458,42 27,40.6568542 27,39 L27,33 L21,33 C19.3431458,33 18,31.6568542 18,30 C18,28.3431458 19.3431458,27 21,27 L27,27 L27,21 C27,19.3431458 28.3431458,18 30,18 C31.6568542,18 33,19.3431458 33,21 L33,27 L39,27 C40.6568542,27 42,28.3431458 42,30 C42,31.6568542 40.6568542,33 39,33 L33,33 Z" id="Combined-Shape" fill="#D8D8D8" transform="translate(30.000000, 30.000000) rotate(45.000000) translate(-30.000000, -30.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
